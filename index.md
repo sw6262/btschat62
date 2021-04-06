@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## 교육용 챗봇 실습
 
-You can use the [editor on GitHub](https://github.com/sw6262/btschat62/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+동국대학교 교육대학원
+# 하나
+## 둘
+##셋
+-목록1
+-목록2
+-목록3
 
 ### Markdown
 
